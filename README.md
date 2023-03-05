@@ -1,4 +1,4 @@
 PROJECT
 --------
-• Create a Library Management System using Array.
+‣ Create a Library Management System using Array.
 
